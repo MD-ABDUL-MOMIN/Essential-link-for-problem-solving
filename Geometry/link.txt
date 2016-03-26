@@ -1,0 +1,125 @@
+#Competitive Programming by F.H & S.H- 7.2 Geometry Basics
+
+*##[Learn geometry](http://www.mathsisfun.com/geometry/)
+
+  *[khan academy](https://www.khanacademy.org/math/geometry)
+
+  *[awesome link](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html)
+
+
+
+*##Dot Product & Cross Product :
+  *[topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-basic-concepts/)
+
+*##Line-Point Distance:
+
+  *[topcoder tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-basic-concepts/)
+
+
+*##Line-Line Intersection :
+
+  *[topcoder]https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-line-intersection-and-its-applications/
+
+#Competitive Programming by F.H & S.H-7.4 Intersection Problems
+
+
+##Segment Intersection(Line):
+
+  *good resource [click here](http://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/)
+
+
+##Polygon Area & Perimeter:
+
+  *topcoder tutorial [click here](https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-basic-concepts/)
+
+##Competitive Programming by F.H & S.H- Paze 126
+
+
+##Circle Intersection :
+
+  *[click here](http://mathworld.wolfram.com/Circle-CircleIntersection.html)
+
+  *[link 2](http://mathforum.org/library/drmath/view/51836.html)
+
+
+##Reflection & Rotation of Line:
+
+  *topcoder tutorial [_click_here_](https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-line-intersection-and-its-applications/)
+
+
+##CCW (Counter Clockwise) Test:
+
+  *Competitive Programming by F.H & S.H- Page 127
+
+
+##Convex Hull :
+
+  *topcoder tutorial [click_here_](https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-line-intersection-and-its-applications/)
+
+##Competitive Programming by F.H & S.H-7.3 Graham’s Scan
+
+  *good resource for algorithm click [_here_](http://www.geeksforgeeks.org/convex-hull-set-1-jarviss-algorithm-or-wrapping/)
+
+
+##Line Sweep Algorithms:
+
+  *topcoder tutorial click [_here_](https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/)
+
+
+##Point In Triangle:
+
+  *click [_here_](http://www.geeksforgeeks.org/check-whether-a-given-point-lies-inside-a-triangle-or-not/)
+
+
+##Point In Polygon:
+
+  *click [_here_](http://www.geeksforgeeks.org/how-to-check-if-a-given-point-lies-inside-a-polygon/)
+
+  *click [_here_](https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-using-geometry-in-topcoder-problems/)
+
+
+##Closest Pair of Point :
+
+  *Click [_here_](http://www.geeksforgeeks.org/closest-pair-of-points/)
+
+en.wikipedia.org/wiki/
+
+##Closest_pair_of_points_problem
+
+  *click [_here_](www.cs.ucsb.edu/~suri/cs235/ClosestPair.pdf)
+
+##Great-Circle Distance:
+
+##Competitive Programming by F.H & S.H- Paze 125
+
+  *click [_here_](http://en.wikipedia.org/wiki/Great-circle_distance)
+
+
+##Circle Union :
+
+  *click [_here_](http://chorui12.blogspot.com/)
+
+
+##Bisection Method:
+
+###Competitive Programming by F.H & S.H - Paze 131
+###Pick's theorem :[link](https://www.math.hmc.edu/funfacts/ffiles/10002.2.shtml)
+  *[link](http://en.wikipedia.org/wiki/Pick%27s_theorem)
+
+
+##Computational Geometry (Advanced):
+
+  *click [_here_](http://www.personal.kent.edu/~rmuhamma/Compgeometry/compgeom.html)
+
+  *link 2 [_here_](http://www.randygaul.net/category/computational-geometry/)
+
+  *link 3 [_here_](http://blog.informationgeometry.org/)
+
+
+##Using Geometry in TopCoder Problems :
+
+  *click [_here_](https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-using-geometry-in-topcoder-problems/)
+
+
+##Full document :[link](http://mathworld.wolfram.com/topics/Geometry.html      )
+
